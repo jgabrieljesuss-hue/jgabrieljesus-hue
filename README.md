@@ -90,20 +90,11 @@ Atualmente, venho desenvolvendo conhecimentos principalmente em **Java, Python, 
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jgabrieljesuss-hue/jgabrieljesuss-hue/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jgabrieljesuss-hue/jgabrieljesuss-hue/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/jgabrieljesuss-hue/jgabrieljesuss-hue/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/jgabrieljesuss-hue/jgabrieljesuss-hue/output/github-contribution-grid-snake.svg?sanitize=true&raw=true"
+  alt="GitHub contribution snake"
+  width="100%"
+/>
 
 </div>
 
