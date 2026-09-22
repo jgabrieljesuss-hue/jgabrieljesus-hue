@@ -88,8 +88,6 @@ Atualmente, venho desenvolvendo conhecimentos principalmente em **Java, Python, 
 
 ## 🐍 Contribuições
 
-## 🐍 Contribuições
-
 <div align="center">
 
 <img
