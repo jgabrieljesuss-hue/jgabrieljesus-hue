@@ -88,10 +88,12 @@ Atualmente, venho desenvolvendo conhecimentos principalmente em **Java, Python, 
 
 ## 🐍 Contribuições
 
+## 🐍 Contribuições
+
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/jgabrieljesuss-hue/jgabrieljesuss-hue/output/github-contribution-grid-snake.svg?sanitize=true&raw=true"
+  src="https://raw.githubusercontent.com/jgabrieljesuss-hue/jgabrieljesuss-hue/output/github-contribution-grid-snake.gif"
   alt="GitHub contribution snake"
   width="100%"
 />
