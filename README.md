@@ -25,9 +25,9 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&amp;label=VISUALIZA%C3%87%C3%95ES&amp;color=8B5CF6&amp;style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&label=VISUALIZAÇÕES&color=8B5CF6"
     alt="Visualizações do perfil"
-  />
+  >
 </p>
 
 </div>
