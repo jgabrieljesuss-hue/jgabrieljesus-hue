@@ -1,34 +1,20 @@
+
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" valign="middle">
-      <img
-        src="./Assets/foto-perfil.jpg"
-        width="130"
-        alt="José Gabriel"
-      >
+    <td>
+      <img src="./Assets/foto-perfil.jpg" width="130" alt="José Gabriel">
     </td>
-
-    <td align="center" valign="middle">
-      <img
-        width="100%"
-        src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,50:8B5CF6,100:A855F7&height=180&section=header&text=José%20Gabriel&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20em%20formação&descAlignY=55&descSize=20&descColor=FFFFFF"
-        alt="José Gabriel"
-      >
+    <td>
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,50:8B5CF6,100:A855F7&height=180&section=header&text=José%20Gabriel&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20em%20formação&descAlignY=55&descSize=20&descColor=FFFFFF" alt="José Gabriel">
     </td>
   </tr>
 </table>
 
 <br>
 
-<h3>
-  Desenvolvedor em formação
-  <span style="color:#8B5CF6;">•</span>
-  Tecnologia
-  <span style="color:#8B5CF6;">•</span>
-  Desenvolvimento de Software
-</h3>
+<h3>Desenvolvedor em formação • Tecnologia • Desenvolvimento de Software</h3>
 
 <p>
   Estudante de Análise e Desenvolvimento de Sistemas, construindo conhecimento<br>
@@ -37,15 +23,9 @@
 
 <hr>
 
-<img
-  src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&label=Visualizações%20do%20perfil&color=8B5CF6&style=flat-square"
-  alt="Visualizações do perfil"
->
+<img src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&label=Visualizações%20do%20perfil&color=8B5CF6&style=flat-square" alt="Visualizações do perfil">
 
 </div>
-
----
-
 ---
 
 ## 👨‍💻 Sobre mim
