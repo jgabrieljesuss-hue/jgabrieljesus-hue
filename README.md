@@ -116,11 +116,20 @@ Atualmente, venho desenvolvendo conhecimentos principalmente em **Java, Python, 
   <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
 </a>
 
+<a href="mailto:jgabrieljesuss@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D14836" alt="E-mail">
+</a>
+
+<br><br>
+
+<sub>💬 Vamos conversar? Estou sempre aberto a novas conexões e oportunidades.</sub>
+
 </div>
 
 ---
 
 <div align="center">
+
 
 ### 💜 Construindo conhecimento. Desenvolvendo projetos. Evoluindo todos os dias.
 
