@@ -23,9 +23,15 @@
 
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&label=Visualizações%20do%20perfil&color=8B5CF6&style=flat-square" alt="Visualizações do perfil">
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&amp;label=VISUALIZA%C3%87%C3%95ES&amp;color=8B5CF6&amp;style=for-the-badge"
+    alt="Visualizações do perfil"
+  />
+</p>
 
 </div>
+
 ---
 
 ## 👨‍💻 Sobre mim
