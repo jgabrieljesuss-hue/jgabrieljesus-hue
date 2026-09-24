@@ -7,7 +7,7 @@
       <img src="./Assets/foto-perfil.jpg" width="170" alt="José Gabriel">
     </td>
     <td>
-      <img width="900%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,50:8B5CF6,100:A855F7&height=200&section=header&text=José%20Gabriel&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20em%20formação&descAlignY=55&descSize=20&descColor=FFFFFF" alt="José Gabriel">
+      <img width="900%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,50:8B5CF6,100:A855F7&height=250&section=header&text=José%20Gabriel&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20em%20formação&descAlignY=55&descSize=20&descColor=FFFFFF" alt="José Gabriel">
     </td>
   </tr>
 </table>
