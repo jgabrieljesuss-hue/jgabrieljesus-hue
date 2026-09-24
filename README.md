@@ -23,10 +23,13 @@
 
 <hr>
 
-<img
-  src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue&v=2"
-  alt="Visualizações do perfil"
-/>
+<p align="center">
+  <img
+    src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue"
+    alt="Visualizações do perfil"
+  />
+</p>
+
 </div>
 
 ---
