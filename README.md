@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td>
-      <img src="./Assets/foto-perfil.jpg" width="130" alt="José Gabriel">
+      <img src="./Assets/foto-perfil.jpg" width="170" alt="José Gabriel">
     </td>
     <td>
-      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,50:8B5CF6,100:A855F7&height=180&section=header&text=José%20Gabriel&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20em%20formação&descAlignY=55&descSize=20&descColor=FFFFFF" alt="José Gabriel">
+      <img width="900%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,50:8B5CF6,100:A855F7&height=180&section=header&text=José%20Gabriel&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20em%20formação&descAlignY=55&descSize=20&descColor=FFFFFF" alt="José Gabriel">
     </td>
   </tr>
 </table>
@@ -16,13 +16,6 @@
 
 <h3>Desenvolvedor em formação • Tecnologia • Desenvolvimento de Software</h3>
 
-<p align="center">
-  <img
-    src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue"
-    alt="Visualizações do perfil"
-  />
-</p>
-
 <p>
   Estudante de Análise e Desenvolvimento de Sistemas, construindo conhecimento<br>
   através de projetos e experiências práticas.
@@ -30,6 +23,13 @@
 
 <hr>
 
+<p align="center">
+  <img
+    width="150"
+    src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue"
+    alt="Visualizações do perfil"
+  />
+</p>
 
 </div>
 
