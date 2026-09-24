@@ -25,9 +25,9 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&label=VISUALIZAÇÕES&color=8B5CF6"
+    src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue"
     alt="Visualizações do perfil"
-  >
+  />
 </p>
 
 </div>
