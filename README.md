@@ -149,6 +149,6 @@ Atualmente, venho desenvolvendo conhecimentos principalmente em **Java, Python, 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:5B21B6,100:0D0D0D&height=100&section=footer" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:5B21B6,100:0D0D0D&height=150&section=footer" alt="Footer">
 
 </div>
