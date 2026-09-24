@@ -16,6 +16,13 @@
 
 <h3>Desenvolvedor em formação • Tecnologia • Desenvolvimento de Software</h3>
 
+<p align="center">
+  <img
+    src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue"
+    alt="Visualizações do perfil"
+  />
+</p>
+
 <p>
   Estudante de Análise e Desenvolvimento de Sistemas, construindo conhecimento<br>
   através de projetos e experiências práticas.
