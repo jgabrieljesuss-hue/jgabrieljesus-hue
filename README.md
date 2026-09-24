@@ -25,9 +25,8 @@
 
 <p align="center">
   <img
-    src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue"
-    alt="Visualizações do perfil"
-  />
+  <img src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue">
+  
 </p>
 
 </div>
