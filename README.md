@@ -25,10 +25,9 @@
 
 <p align="center">
   <img
-    width="150"
-    src="https://github-profile-view-counter-eta.vercel.app/api?username=jgabrieljesuss-hue"
-    alt="Visualizações do perfil"
-  />
+  src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&color=8B5CF6&style=flat-square&label=VISITAS"
+  alt="Contador de visitas do perfil"
+/>
 </p>
 
 </div>
