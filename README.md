@@ -25,7 +25,7 @@
 
 <p align="center">
   <img
-  src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&color=8B5CF6&style=flat-square&label=VISUALIZAÇÕES NO PERFIL"
+  src="https://komarev.com/ghpvc/?username=jgabrieljesuss-hue&color=8B5CF6&style=flat-square&label=VISUALIZAÇÕESNOPERFIL"
   alt="Contador de visitas do perfil"
 />
 </p>
